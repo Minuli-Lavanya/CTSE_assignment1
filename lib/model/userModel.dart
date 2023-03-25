@@ -18,7 +18,7 @@ class UserModel {
     );
   }
 
-  // sending data to our server
+  // sending data to our servers
   Map<String, dynamic> toMap() {
     return {
       'uid': uid,
