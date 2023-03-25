@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
-import 'package:lunch_partner/controller/locationController.dart';
-import 'package:lunch_partner/adminHome.dart';
-import 'package:lunch_partner/locations/addLocation.dart';
-import 'package:lunch_partner/locations/updateLocation.dart';
+import 'package:meet_me/controller/locationController.dart';
+import 'package:meet_me/adminHome.dart';
+import 'package:meet_me/locations/addLocation.dart';
+import 'package:meet_me/locations/updateLocation.dart';
 
 class LocationList extends StatefulWidget {
   const LocationList({Key? key}) : super(key:key);

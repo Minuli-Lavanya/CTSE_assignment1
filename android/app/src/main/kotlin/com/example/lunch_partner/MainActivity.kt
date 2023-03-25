@@ -1,4 +1,4 @@
-package com.example.lunch_partner
+package com.example.meet_me
 
 import io.flutter.embedding.android.FlutterActivity
 

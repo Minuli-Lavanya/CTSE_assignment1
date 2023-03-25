@@ -1,12 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.lunch_partner">
+    package="com.example.meet_me">
 
     <uses-permission android:name="android.permission.SEND_SMS"/>
     <uses-permission android:name="android.permission.READ_SMS"/>
     <uses-permission android:name="android.permission.INTERNET" />
 
    <application
-        android:label="lunch_partner"
+        android:label="meet_me"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
