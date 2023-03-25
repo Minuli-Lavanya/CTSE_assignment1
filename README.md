@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 # GROUP ID : 77
 # Group Members :
 
-IT19176116 - T. M. L. Bambarandage
-IT19382036 - L. S. Gamage
+IT19176116 - T. M. L. Bambarandage,
+IT19382036 - L. S. Gamage,
 IT19989242 - Anjali W. M. S
