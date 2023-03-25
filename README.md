@@ -1,4 +1,4 @@
-# lunch_partner
+# meet_me
 
 A new Flutter project.
 

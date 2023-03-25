@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:lunch_partner/login.dart';
-import 'package:lunch_partner/model/userModel.dart';
-import 'package:lunch_partner/adminHome.dart';
+import 'package:meet_me/login.dart';
+import 'package:meet_me/model/userModel.dart';
+import 'package:meet_me/adminHome.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
