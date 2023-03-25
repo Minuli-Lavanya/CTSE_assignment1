@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:flutter/widgets.dart';
-import 'package:lunch_partner/adminHome.dart';
+import 'package:meet_me/adminHome.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class YouScreen extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:lunch_partner/contacts/addContact.dart';
-import 'package:lunch_partner/contacts/viewContact.dart';
-import 'package:lunch_partner/adminHome.dart';
+import 'package:meet_me/contacts/addContact.dart';
+import 'package:meet_me/contacts/viewContact.dart';
+import 'package:meet_me/adminHome.dart';
 import '../controller/contactController.dart';
 import '../userHome.dart';
 
